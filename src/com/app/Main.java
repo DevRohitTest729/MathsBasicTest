@@ -10,6 +10,7 @@ public class Main {
 		multiply(a, b);
 		System.out.println("Hello World");
 		Test2.printMsg("you bro");
+		Test2.showBro(15, 4, 8);
 	}
 
 	private static void multiply(int a, int b) {
