@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tough
+ *
+ */
+module BasicMaths {
+}
